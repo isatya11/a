@@ -19,7 +19,12 @@ public class trial
       return it;
       
    }
-
+// hare Krishna 
+// hare Krishna 
+// hare Krishna 
+// hare Krishna 
+// hare Krishna 
+// hare Krishna 
    public static void main(String []argh)
    {
         int k=0;
